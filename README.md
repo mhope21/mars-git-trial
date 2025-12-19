@@ -1,1 +1,1 @@
-# mars-git-trialMy first GitHub repo
+# mars-git-trial
